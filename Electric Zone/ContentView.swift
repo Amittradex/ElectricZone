@@ -16,7 +16,7 @@ struct ContentView: View {
                                         .animation(.easeOut(duration: 1.5))
                     
                                 } else {
-                    // Style Your Dashboard here
+                    // Style Your Dashboard
                     
                     // Section 1
                     
@@ -24,7 +24,6 @@ struct ContentView: View {
                         .font(.system(size: 36))
                         .foregroundStyle(.black)
                         .padding(.top)
-                    
                     
                     
                     HStack{
