@@ -9,7 +9,6 @@ struct ContentView: View {
             ZStack{
                 
                 VStack{
-                    
                                 if showsplash {
                     
                                     SplashScreen()
