@@ -22,8 +22,7 @@ struct ScooterEV: Identifiable{
         .init(id: 4, imgName: "scooter04", title: "Vida V1 Pro", subtitle: "Range 110Km"),
         .init(id: 5, imgName: "scooter05", title: "Simple Energy One", subtitle: "Range 203Km"),
     
-    
-    
+        
     ]
     
 }
