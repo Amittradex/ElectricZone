@@ -16,6 +16,7 @@ struct ContentView: View {
                                         .animation(.easeOut(duration: 1.5))
                     
                                 } else {
+                                    
                     // Style Your Dashboard
                     
                     // Section 1
@@ -35,6 +36,7 @@ struct ContentView: View {
                     }
                     .padding(.top)
                     Spacer()
+                                    
                     // Section 2
                     
                     
